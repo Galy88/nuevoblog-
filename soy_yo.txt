@@ -1,1 +1,3 @@
-Soy Jonathan y tengo 33 años
+Soy Jonathan y tengo 34 años
+
+estoy estudiando git
