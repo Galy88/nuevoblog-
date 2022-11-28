@@ -1,0 +1,1 @@
+vamos a realizar pruebas con rm y reset
